@@ -1,0 +1,3 @@
+(１)A８：AA：AA：FF：FE：AA：AA：AA
+(２)９Ａ：76：54：ＦＦ:FE:32：10：FE
+(３)FD：FF：FF：FF：FE：FF：FF：FF
